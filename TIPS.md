@@ -7,7 +7,7 @@ Tips
 
 * Det är inget måste att man själv sätter ihop materialet, hittar man bra tutorials är det bara att hänvisa direkt.
 
-* Föreläsning sdelen kan typiskt innehålla 
+* Föreläsningsdelen kan typiskt innehålla 
 	- bakgrund och historia
 	- koncept/filosofi/arkitektur
 	- beskrivning av hur det funkar, m.m
